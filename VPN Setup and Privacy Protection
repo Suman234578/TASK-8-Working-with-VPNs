@@ -1,0 +1,30 @@
+🧠 Objective:
+To understand how a VPN (Virtual Private Network) enhances user privacy and security, and to gain hands-on experience setting it up.
+
+🔧 Tools Used:
+
+VPN Client: ProtonVPN (Free Tier)
+Platform: Kali Linux / Windows
+Browser: Chrome / Firefox
+Verification Site: https://whatismyipaddress.com
+
+🧭 Steps Followed:
+1. Sign Up and Install VPN
+Chose ProtonVPN (Free Plan) from https://protonvpn.com
+Created a free account and downloaded the desktop client for my OS.
+Installed the application and logged in.
+2. Connected to a VPN Server
+Connected to the closest available server (Netherlands / Singapore).
+Successfully established a secure connection.
+3. Verified IP Address
+Visited whatismyipaddress.com
+Confirmed that the IP address and location were different than my actual one.
+
+✅ IP masking was successful.
+4. Tested Encrypted Traffic
+Opened websites with HTTPS
+Checked the lock icon and certificate to confirm encryption was active.
+5. Disconnected VPN and Compared Speed
+Before VPN: Speed ~20 Mbps
+With VPN: Speed ~13 Mbps (slight drop, expected)
+Disconnected and rechecked: IP reverted to real location.
